@@ -1,0 +1,12 @@
+.detail-main{
+  background: #fff;
+  flex:1;
+  overflow: scroll;
+  dl{
+    dd p{
+      line-height: 2;
+      font-size: .3rem;
+      text-indent: 2ch
+    }
+  }
+}

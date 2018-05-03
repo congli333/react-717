@@ -1,0 +1,97 @@
+.head-tit{
+  width: 100%;
+  height: .89rem;
+  position: relative;
+  line-height: .89rem;
+  text-align: center;
+  span{
+    font-size: .32rem;
+    color: #fff;
+  }
+  i.icon{
+    position: absolute;
+    font-size: .45rem;
+    color: #fff;
+    &:first-child{
+      left: .3rem;
+    }
+    &:last-child{
+      right: .3rem;
+    }
+  }
+}
+.fix-box{
+  position: fixed;
+  top:0;
+  left:0;
+  background: #fff;
+  border-bottom: 1px solid #ccc;
+  span, i.icon{
+    color: #333;
+  }
+  z-index:99;
+}
+.mine-header{
+  width: 100%;
+  background-size: contain;
+  background: url('../../static/img/mine_bg.png') center center no-repeat;
+  >div{
+    text-align: center;
+    img{
+      width: 1.24rem;
+      height: 1.24rem;
+      display: block;
+      border-radius: 50%;
+      margin-top: .14rem;
+      margin-left: 50%;
+      transform: translate(-50%, 0);
+      box-shadow: 1px 1px 3px #ff9933, -1px -1px 3px #ff9933;
+    }
+    p{
+      margin-top:.1rem;
+      text-align: center;
+      line-height: .52rem;
+      font-size: .3rem;
+      color: #fff;
+    }
+  }
+}
+.mine-main{
+  width: 100%;
+  height: 100%;
+  overflow:scroll;
+  ul{
+    background: #fff;
+    margin-bottom: .2rem;
+    li{
+      height: 1.02rem;
+      display: flex;
+      padding-left: .3rem;
+      box-sizing: border-box;
+      line-height: 1.02rem;
+      &:last-child p{
+        border:0;
+      }
+      >i.icon{
+        font-size: .36rem;
+        color: #333;
+        margin-right: .14rem;
+      }
+      p{
+        flex:1;
+        display: flex;
+        justify-content: space-between;
+        padding-right: .3rem;
+        border-bottom: 1px solid #eee;
+        span{
+          font-size: .3rem;
+          color:#333;
+        }
+        i.icon{
+          font-size: .2rem;
+          color: #666;
+        }
+      }
+    }
+  }
+}

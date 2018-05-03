@@ -1,0 +1,284 @@
+{
+  "classifyList": [
+    {
+      "category": "家乡味道",
+      "cates": [
+        {
+          "cate_id": 113,
+          "cate_name": "音说常",
+          "cate_icon": "http://dummyimage.com/50x50/a879f2&text=铁"
+        },
+        {
+          "cate_id": 114,
+          "cate_name": "制角去",
+          "cate_icon": "http://dummyimage.com/50x50/79f284&text=基"
+        },
+        {
+          "cate_id": 115,
+          "cate_name": "活安做",
+          "cate_icon": "http://dummyimage.com/50x50/f27990&text=前"
+        },
+        {
+          "cate_id": 116,
+          "cate_name": "火达共",
+          "cate_icon": "http://dummyimage.com/50x50/79b3f2&text=红"
+        }
+      ]
+    },
+    {
+      "category": "进口食品",
+      "cates": [
+        {
+          "cate_id": 117,
+          "cate_name": "况已记",
+          "cate_icon": "http://dummyimage.com/50x50/d7f279&text=任"
+        },
+        {
+          "cate_id": 118,
+          "cate_name": "元达",
+          "cate_icon": "http://dummyimage.com/50x50/e979f2&text=小"
+        },
+        {
+          "cate_id": 119,
+          "cate_name": "展机一",
+          "cate_icon": "http://dummyimage.com/50x50/79f2c6&text=身"
+        },
+        {
+          "cate_id": 120,
+          "cate_name": "气观",
+          "cate_icon": "http://dummyimage.com/50x50/f2a379&text=难"
+        }
+      ]
+    },
+    {
+      "category": "牛奶乳品",
+      "cates": [
+        {
+          "cate_id": 121,
+          "cate_name": "县相线",
+          "cate_icon": "http://dummyimage.com/50x50/7f79f2&text=受"
+        },
+        {
+          "cate_id": 122,
+          "cate_name": "人日",
+          "cate_icon": "http://dummyimage.com/50x50/95f279&text=根"
+        },
+        {
+          "cate_id": 123,
+          "cate_name": "方要置白",
+          "cate_icon": "http://dummyimage.com/50x50/f279b9&text=适"
+        },
+        {
+          "cate_id": 124,
+          "cate_name": "因成",
+          "cate_icon": "http://dummyimage.com/50x50/79dcf2&text=正"
+        },
+        {
+          "cate_id": 125,
+          "cate_name": "除志平选",
+          "cate_icon": "http://dummyimage.com/50x50/f2e479&text=就"
+        },
+        {
+          "cate_id": 126,
+          "cate_name": "自青",
+          "cate_icon": "http://dummyimage.com/50x50/c179f2&text=发"
+        },
+        {
+          "cate_id": 127,
+          "cate_name": "还当装",
+          "cate_icon": "http://dummyimage.com/50x50/79f29e&text=还"
+        },
+        {
+          "cate_id": 128,
+          "cate_name": "从史路",
+          "cate_icon": "http://dummyimage.com/50x50/f27a79&text=点"
+        }
+      ]
+    },
+    {
+      "category": "休闲零食",
+      "cates": [
+        {
+          "cate_id": 129,
+          "cate_name": "向党细",
+          "cate_icon": "http://dummyimage.com/50x50/799af2&text=领"
+        },
+        {
+          "cate_id": 130,
+          "cate_name": "技活",
+          "cate_icon": "http://dummyimage.com/50x50/bef279&text=果"
+        },
+        {
+          "cate_id": 131,
+          "cate_name": "先整心",
+          "cate_icon": "http://dummyimage.com/50x50/f279e1&text=很"
+        },
+        {
+          "cate_id": 132,
+          "cate_name": "知花民",
+          "cate_icon": "http://dummyimage.com/50x50/79f2df&text=存"
+        },
+        {
+          "cate_id": 133,
+          "cate_name": "色理华期",
+          "cate_icon": "http://dummyimage.com/50x50/f2bc79&text=持"
+        },
+        {
+          "cate_id": 134,
+          "cate_name": "厂变",
+          "cate_icon": "http://dummyimage.com/50x50/9879f2&text=交"
+        }
+      ]
+    },
+    {
+      "category": "生鲜果蔬",
+      "cates": [
+        {
+          "cate_id": 135,
+          "cate_name": "于与",
+          "cate_icon": "http://dummyimage.com/50x50/7cf279&text=能"
+        },
+        {
+          "cate_id": 136,
+          "cate_name": "场千圆",
+          "cate_icon": "http://dummyimage.com/50x50/f279a0&text=只"
+        },
+        {
+          "cate_id": 137,
+          "cate_name": "金听育",
+          "cate_icon": "http://dummyimage.com/50x50/79c3f2&text=理"
+        },
+        {
+          "cate_id": 138,
+          "cate_name": "至府革东",
+          "cate_icon": "http://dummyimage.com/50x50/e6f279&text=用"
+        }
+      ]
+    },
+    {
+      "category": "米面粮油",
+      "cates": [
+        {
+          "cate_id": 139,
+          "cate_name": "等道小",
+          "cate_icon": "http://dummyimage.com/50x50/da79f2&text=也"
+        },
+        {
+          "cate_id": 140,
+          "cate_name": "许引局",
+          "cate_icon": "http://dummyimage.com/50x50/79f2b7&text=们"
+        },
+        {
+          "cate_id": 141,
+          "cate_name": "风日",
+          "cate_icon": "http://dummyimage.com/50x50/f29379&text=西"
+        },
+        {
+          "cate_id": 142,
+          "cate_name": "区上",
+          "cate_icon": "http://dummyimage.com/50x50/7981f2&text=而"
+        },
+        {
+          "cate_id": 143,
+          "cate_name": "历与象",
+          "cate_icon": "http://dummyimage.com/50x50/a5f279&text=管"
+        },
+        {
+          "cate_id": 144,
+          "cate_name": "除指边群",
+          "cate_icon": "http://dummyimage.com/50x50/f279c8&text=记"
+        },
+        {
+          "cate_id": 145,
+          "cate_name": "研又要",
+          "cate_icon": "http://dummyimage.com/50x50/79ebf2&text=制"
+        },
+        {
+          "cate_id": 146,
+          "cate_name": "支这向",
+          "cate_icon": "http://dummyimage.com/50x50/f2d579&text=情"
+        },
+        {
+          "cate_id": 147,
+          "cate_name": "儿主",
+          "cate_icon": "http://dummyimage.com/50x50/b179f2&text=千"
+        }
+      ]
+    },
+    {
+      "category": "调味调料",
+      "cates": [
+        {
+          "cate_id": 148,
+          "cate_name": "地水意",
+          "cate_icon": "http://dummyimage.com/50x50/79f28e&text=风"
+        },
+        {
+          "cate_id": 149,
+          "cate_name": "边时",
+          "cate_icon": "http://dummyimage.com/50x50/f27987&text=道"
+        },
+        {
+          "cate_id": 150,
+          "cate_name": "往新三",
+          "cate_icon": "http://dummyimage.com/50x50/79aaf2&text=强"
+        },
+        {
+          "cate_id": 151,
+          "cate_name": "传场则",
+          "cate_icon": "http://dummyimage.com/50x50/cdf279&text=性"
+        }
+      ]
+    },
+    {
+      "category": "酒水饮料",
+      "cates": [
+        {
+          "cate_id": 152,
+          "cate_name": "象性",
+          "cate_icon": "http://dummyimage.com/50x50/f279f1&text=往"
+        },
+        {
+          "cate_id": 153,
+          "cate_name": "得较天",
+          "cate_icon": "http://dummyimage.com/50x50/79f2d0&text=部"
+        },
+        {
+          "cate_id": 154,
+          "cate_name": "角难队文",
+          "cate_icon": "http://dummyimage.com/50x50/f2ac79&text=标"
+        },
+        {
+          "cate_id": 155,
+          "cate_name": "学常儿速",
+          "cate_icon": "http://dummyimage.com/50x50/8979f2&text=性"
+        },
+        {
+          "cate_id": 156,
+          "cate_name": "步济又个",
+          "cate_icon": "http://dummyimage.com/50x50/8cf279&text=精"
+        },
+        {
+          "cate_id": 157,
+          "cate_name": "每群样",
+          "cate_icon": "http://dummyimage.com/50x50/f279af&text=定"
+        },
+        {
+          "cate_id": 158,
+          "cate_name": "同层直任",
+          "cate_icon": "http://dummyimage.com/50x50/79d2f2&text=造"
+        },
+        {
+          "cate_id": 159,
+          "cate_name": "当系和",
+          "cate_icon": "http://dummyimage.com/50x50/f2ee79&text=百"
+        },
+        {
+          "cate_id": 160,
+          "cate_name": "样此音书",
+          "cate_icon": "http://dummyimage.com/50x50/ca79f2&text=置"
+        }
+      ]
+    }
+  ]
+}
